@@ -1,0 +1,46 @@
+# My setup
+
+- `Fira Code NF` as a font for everything that needs to be monospaced
+- M1 MacBook Pro (2020)
+  - Base model, silver
+- Applications
+  - Visual Studio Code
+    - Atom One Dark as a theme
+    - TabNine as an auto complete engine
+    - _And about 60 other extensions that I don't care to write here._
+  - [Docker Desktop](https://www.docker.com/products/docker-desktop) (For testing containers)
+  - [iTerm2](https://iterm2.com), and more terminal stuff
+    - A heavily edited installation of Zsh. ([OhMyZsh](https://ohmyz.sh) using [P10K](https://github.com/romkatv/powerlevel10k) as the theme.)
+    - [N](https://www.npmjs.com/package/n) as a Node.js version manager.
+    - [Yarn](https://yarnpkg.com) as my Node.js package manager.
+    - [HomeBrew](https://brew.sh) as my main package manager.
+    - [GitHub CLI](https://cli.github.com) because it's a very simple way to create repos for all of the projects _fast_!
+    - A few custom utility scripts
+      - `airbnb-react-guidelines`: A script to add AirBnb ESLint settings to CRA projects, [source here](https://gist.github.com/03936d30e0a70627170f9fef5f3dcd49).
+      - `finder`: A script that passes in all arguments to `open -a Finder.app`
+      - `crazybrew`: A script to access an Intel install of [HomeBrew](https://brew.sh).
+      - `superclear`: Clear terminal, run neofetch, good for "rice"-ing (I guess).
+  - [Alfred](https://www.alfredapp.com) (spotlight on crack)
+  - [Notion](https://notion.so) For all the planing
+  - [Figma](https://figma.com), UI design app (free).
+  - [GoodNotes 5](https://www.goodnotes.com) just for importing to other services from iPad.
+  - [Spark](https://sparkmailapp.com) email client of your dreams, is free (yay!).
+  - [Typora](https://.typora.io) as a Markdown editor.
+  - Browsers (yes, I know, why?)
+    - Browser List
+      - [Vivaldi](https://vivaldi.com), An **uber** customizable browser that's based on chromium
+      - [Brave](https://brave.com), Privacy focused browser, closer to chrome for school and testing
+      - [cHrOmE](https://chrome.google.com), Just for testing and automation (using selenium).
+    - Extensions (find it on the chrome webstore, unless it has a link)
+      - AdBlocker, just as a backup in case the built in one doesn't work properly
+      - Dark Reader, **DARK MODE EVERYTHING**
+      - Bitwarden, A (free, and self-hostable) password manager that has a browser integration
+      - [Smooth Cursorfy](https://github.com/ewen-lbh/smooth-cursorify), makes custom cursors smooth
+      - Stylus, A way to edit CSS for custom themes (uses the stylish theme library, however, it is not the stylish extension)
+      - Picture-in-Picture extension (by Google)
+      - Dev stuff
+        - React Development Tools
+        - Get cookies.txt
+        - Wappalyzer (A better version of `whatruns`)
+        - Fake Filler
+        - Web developer checklist
