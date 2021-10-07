@@ -1,5 +1,7 @@
 # My setup
 
+I choose to ignore a lot of things, as they aren't used for development much. 
+
 - `Fira Code NF` as a font for everything that needs to be monospaced
 - M1 MacBook Pro (2020)
   - Base model, silver
@@ -7,7 +9,7 @@
   - Visual Studio Code
     - Atom One Dark as a theme
     - TabNine as an auto complete engine
-    - _And about 60 other extensions that I don't care to write here._
+    - _And about 60 other extensions that I don't have the time to write here._
   - [Docker Desktop](https://www.docker.com/products/docker-desktop) (For testing containers)
   - [iTerm2](https://iterm2.com), and more terminal stuff
     - A heavily edited installation of Zsh. ([OhMyZsh](https://ohmyz.sh) using [P10K](https://github.com/romkatv/powerlevel10k) as the theme.)
@@ -15,6 +17,7 @@
     - [Yarn](https://yarnpkg.com) as my Node.js package manager.
     - [HomeBrew](https://brew.sh) as my main package manager.
     - [GitHub CLI](https://cli.github.com) because it's a very simple way to create repos for all of the projects _fast_!
+    - Python 3.9 for more advanced scripting and automation
     - A few custom utility scripts
       - `airbnb-react-guidelines`: A script to add AirBnb ESLint settings to CRA projects, [source here](https://gist.github.com/03936d30e0a70627170f9fef5f3dcd49).
       - `finder`: A script that passes in all arguments to `open -a Finder.app`
@@ -26,6 +29,16 @@
   - [GoodNotes 5](https://www.goodnotes.com) just for importing to other services from iPad.
   - [Spark](https://sparkmailapp.com) email client of your dreams, is free (yay!).
   - [Typora](https://.typora.io) as a Markdown editor.
+  - Utilities
+  	- [Pock](https://pock.app), a widget manager for the MacBook's Touch Bar.
+  	- [Meeter](https://trymeeter.com), menu bar item for upcomming meetings
+  	- [Vanila](https://matthewpalmer.net/vanilla/) for hiding some menu bar items
+  	- [Rectangle](https://rectangleapp.com) for managing windows on macOS
+  	- [Rocket](https://matthewpalmer.net/rocket/) (I have it off at the moment) for slack style emoji shortcuts system wide
+  	- [Amphetamine](https://apps.apple.com/us/app/amphetamine) as a way to keep my mac awake
+  	- [Bumpr](https://getbumpr.com) to let me choose a browser when opening links
+  	- [ImageOptim](https://imageoptim.com) to removing image metadata for publishing
+  	- [Keka](https://keka.io) to compress and decompress weird formats, and encrypt compressed files
   - Browsers (yes, I know, why?)
     - Browser List
       - [Vivaldi](https://vivaldi.com), An **uber** customizable browser that's based on chromium
