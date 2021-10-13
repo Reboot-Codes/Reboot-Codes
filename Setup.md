@@ -44,6 +44,7 @@ I choose to ignore a lot of things, as they aren't used for development much.
       - [Vivaldi](https://vivaldi.com), An **uber** customizable browser that's based on chromium
       - [Brave](https://brave.com), Privacy focused browser, closer to chrome for school and testing
       - [cHrOmE](https://chrome.google.com), Just for testing and automation (using selenium).
+      - [Opera GX](https://www.opera.com/gx), I forgot why I got it but hey, it looks nice (and has a LOT of integrations, and keyboard sounds :smile:).
     - Extensions (find it on the chrome webstore, unless it has a link)
       - AdBlocker, just as a backup in case the built in one doesn't work properly
       - Dark Reader, **DARK MODE EVERYTHING**
