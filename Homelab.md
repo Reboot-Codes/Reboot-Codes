@@ -14,8 +14,11 @@ NetworkAndStuff:
     "S#": "Server running software that isn't dependant on a lot of storage (usually running Rancher)."
     "N#": "Server running software that is dependant on a lot of storage (usually running TrueNAS)."
    allNetworkedVMs: "Virtual Machines I need access to all over my network, which aren't many."
-PublicFacing:
+   allNetworkCameras: "Wyze cam v3's and Wyze Doorbell Pro"
+   allSmortHomeStuff: "Homepod Mini's, Light Bulbs, and other smart home stuff, all connected to HASS in some way or another."
+ReadingTheNetworkGraph:
   domain: "Signifies my domain (e.g. reboothasstuff.co or something). Shown as: hostedThing (desc: hostedThing.domain)"
+  HAndS: "H is a hardware thing, and S is software/user on that thing."
 ```
 
 ## At the moment:
@@ -47,6 +50,8 @@ H         Laptop (MacBook Pro 13 M1: thor.local)
 H         Tablet (iPad: loki.local)
 H         Phone (iPhone: mjonir.local)
 H         OSSCM (OpenSourceSmartCoffeeMaker, coffee.local)
+H         ...[allNetworkCameras]
+H         ...[allSmortHomeStuff]
 H       Valkyrie S1 (Local management-ish stuff only)
 S         Home Asistant (Smart Home Hub on Sterioids: hass.domain)
 S         Ansible (Stuff management that uses SSH: ansible.domain)
